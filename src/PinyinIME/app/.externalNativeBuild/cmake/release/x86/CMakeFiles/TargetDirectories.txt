@@ -1,0 +1,4 @@
+D:/DevelopmentEnvironment/Workspaces/JavaProjects/PinyinIME/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/jni_pinyinime.dir
+D:/DevelopmentEnvironment/Workspaces/JavaProjects/PinyinIME/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/engine.dir
+D:/DevelopmentEnvironment/Workspaces/JavaProjects/PinyinIME/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/DevelopmentEnvironment/Workspaces/JavaProjects/PinyinIME/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir

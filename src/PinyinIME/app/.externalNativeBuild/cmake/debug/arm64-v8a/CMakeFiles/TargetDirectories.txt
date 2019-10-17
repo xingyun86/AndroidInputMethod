@@ -1,0 +1,4 @@
+D:/DevelopmentEnvironment/Workspaces/JavaProjects/PinyinIME/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/jni_pinyinime.dir
+D:/DevelopmentEnvironment/Workspaces/JavaProjects/PinyinIME/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/engine.dir
+D:/DevelopmentEnvironment/Workspaces/JavaProjects/PinyinIME/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/DevelopmentEnvironment/Workspaces/JavaProjects/PinyinIME/app/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
